@@ -14,9 +14,11 @@ proyectos y mis intereses.
 * **Sitio web:** (en construcción)
 
 ## Proyectos
-* Sistema de alquiler de hospedaje **HomeStay** (con patrones de diseño)  
-* Juego tipo **memorama en ensamblador MIPS**  
-* Aplicación móvil para un sistema de mécanica de autos
+### 🚗 Tecnicentro App
+Aplicación para la gestión de un taller automotriz, desarrollada como proyecto de la materia de Programación Orientada a Objetos (POO).  
+- **Tecnologías:** Java  
+- **Estado:** Terminado  
+- **Repositorio:** [GitHub - Tecnicentro App](https://github.com/Danx111/App-de-Tecnicentro.git)  
 
 ## Intereses
 * Ciberseguridad  
