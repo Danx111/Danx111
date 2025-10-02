@@ -33,6 +33,22 @@ Aplicación de escritorio creada en la materia de **Estructura de Datos**, que u
 - **Estado:** Terminado  
 - **Repositorio:** [GitHub - Contactos App](https://github.com/SirProg/ED_G2_Proyecto.git)  
 
+## Tecnologías
+
+Durante mi formación he aprendido y aplicado diferentes tecnologías, herramientas y lenguajes de programación en diversos proyectos académicos:
+
+- **Java**  
+  Usado principalmente en proyectos de Programación Orientada a Objetos (POO). Con él desarrollé aplicaciones como **Tecnicentro App** y **Finanzas App**, aplicando conceptos de herencia, polimorfismo y encapsulamiento.
+
+- **Estructuras de Datos en Java**  
+  Implementación de estructuras como listas enlazadas, pilas, colas y listas circulares. Estas se aplicaron en el proyecto **Contactos App**, donde utilicé una lista circular para almacenar y gestionar los contactos.
+
+- **MIPS Assembly**  
+  Lenguaje de bajo nivel usado para comprender la arquitectura de computadores.
+
+- **Git y GitHub**  
+  Utilizados para el control de versiones y publicación de mis proyectos, manteniendo un historial de cambios y facilitando la colaboración.
+
 
 ## Intereses
 * Ciberseguridad  
