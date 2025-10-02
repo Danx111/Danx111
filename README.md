@@ -1,16 +1,24 @@
-## Hi there 👋
+# Mi sitio personal
+Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis
+proyectos y mis intereses.
 
-<!--
-**Danx111/Danx111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Contenido
+* [Información personal](#información-personal)
+* [Proyectos](#proyectos)
+* [Intereses](#intereses)
 
-Here are some ideas to get you started:
+## Información personal
+* **Nombre:** Daniela Espinoza  
+* **Ocupación:** Estudiante de Ingeniería en Ciencias de la Computación en ESPOL  
+* **Lugar de residencia:** Ecuador  
+* **Sitio web:** (en construcción)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Proyectos
+* Sistema de alquiler de hospedaje **HomeStay** (con patrones de diseño)  
+* Juego tipo **memorama en ensamblador MIPS**  
+* Aplicación móvil para un sistema de mécanica de autos
+
+## Intereses
+* Ciberseguridad  
+* Desarrollo Frontend  
+* Organización de computadores  
