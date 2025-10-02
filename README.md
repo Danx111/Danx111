@@ -13,7 +13,7 @@ proyectos y mis intereses.
 * **Lugar de residencia:** Ecuador  
 * **Sitio web:** (en construcción)
 
- ## Proyectos
+## Proyectos
 
 ### 🚗 Tecnicentro App
 Aplicación desarrollada para la gestión de un taller automotriz. Permite registrar clientes, vehículos, servicios realizados y generar reportes de mantenimiento. Fue realizada como parte de la materia de **Programación Orientada a Objetos (POO)**.  
