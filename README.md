@@ -23,13 +23,15 @@ Aplicación desarrollada para la gestión de un taller automotriz. Permite regis
 ### 💰 Finanzas App
 Aplicación para el manejo de finanzas personales, desarrollada en la materia de **POO**. La app permite registrar ingresos, gastos, generar reportes y mantener un control del balance económico de forma sencilla.  
 - **Tecnologías:** Java, Programación Orientada a Objetos, Android Studio
-- **Estado:** En desarrollo  
+- **Estado:** Terminado
+- **Colaboración:** Proyecto realizado junto a compañeros de curso  
 - **Repositorio:** [GitHub - Finanzas App](https://github.com/SirProg/Proyecto2_Grupo4.git)  
 
 ### 📇 Contactos App
 Aplicación de escritorio creada en la materia de **Estructura de Datos**, que utiliza una **lista circular** para almacenar y gestionar contactos. Incluye funcionalidades como agregar, eliminar, buscar y mostrar contactos de manera eficiente.  
 - **Tecnologías:** Java, Estructuras de Datos (Lista Circular), Android Studio
-- **Estado:** Terminado  
+- **Estado:** Terminado
+- **Colaboración:** Proyecto realizado junto a compañeros de curso  
 - **Repositorio:** [GitHub - Contactos App](https://github.com/SirProg/ED_G2_Proyecto.git)  
 
 ## Tecnologías
