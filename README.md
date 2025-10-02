@@ -14,7 +14,6 @@ proyectos y mis intereses.
 * **Sitio web:** (en construcción)
 
 ## Proyectos
-
 ### 🚗 Tecnicentro App
 Aplicación desarrollada para la gestión de un taller automotriz. Permite registrar clientes, vehículos, servicios realizados y generar reportes de mantenimiento. Fue realizada como parte de la materia de **Programación Orientada a Objetos (POO)**.  
 - **Tecnologías:** Java, Programación Orientada a Objetos, Android Studio
